@@ -1,6 +1,6 @@
 # Akka requests
 
-A simple experiment to see how many request can a AKKA cluster handle.
+A simple experiment to see how many requests can a AKKA cluster handle.
 
 Step 1 - Compile the code
 ```
